@@ -1,6 +1,5 @@
-workspace = { members = ["template"] }
 [package]
-name = "app"
+name = "template"
 version = "0.1.0"
 edition = "2021"
 
